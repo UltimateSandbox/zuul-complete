@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/JMoney417/spring-config-server
+          uri: https://github.com/UltimateSandbox/config-repo
           searchPaths: petclinic
 server:
   port: 8888
